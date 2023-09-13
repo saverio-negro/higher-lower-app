@@ -10,11 +10,11 @@ Credit: <a href="https://www.pngwing.com/en/free-png-zimaf">pngwing.com</a>
 </p>
 
 <p>
-  The game is quite simple: to begin with, you are given two random celebrities' brief description. The game is about guessing who has more followers on Instagram. The game is presented in two modalities. In the first modality, you are winning if and only if you run out of celebrity accounts to make a guess on.
+  The game is quite simple: to begin with, you are given a brief description for both celebrity accounts being compared. The game is about guessing who has more followers on Instagram. The game is presented in two modalities to choose out of. In the first modality, if you manage to get to compare all accounts, randomly picked, without losing, you win. In the second modality, which is the most common one, you keep guessing who has more followers, between the two accounts being compared, and keep track of your score until your guess is wrong, at which point it's game over.
 </p>
 
 <p>
-  Higher Lower App is written in Python and you can launch it either from any local IDE which is able to compile Python source code, or any other Python code editors/compilers from the web which enables you to edit and run the code.
+  Instagram Higher Lower App is written in Python and you can launch it either from any local IDE which is able to compile Python source code, or any other Python code editors/compilers from the web which enables you to edit and run the code.
 </p>
 
 <hr>
@@ -27,10 +27,10 @@ Credit: <a href="https://www.pngwing.com/en/free-png-zimaf">pngwing.com</a>
 
 <hr>
 
-## Higher Lower App on Replit
+## Instagram Higher Lower App on Replit
 
 You can also run the code to play with it on Replit. <br>
 
 <a href="https://replit.com/@saverionegro/blackjack-app?v=1"><img src="/number-guessing-app-replit.png" width="80%" height="80%"></a>
 <br>
-<a href="https://replit.com/@saverionegro/number-guessing-app?v=1">Number Guessing App Replit</a>
+<a href="https://replit.com/@saverionegro/number-guessing-app?v=1">Instagram Higher Lower App Replit</a>
