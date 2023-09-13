@@ -6,7 +6,7 @@ Credit: <a href="https://www.pngwing.com/en/free-png-zimaf">pngwing.com</a>
 <hr>
 
 <p>
-  Are you well-versed at comparing famous people and their "success" in terms of Instagram followers? Well, could it be, you got quite good a sense of popularity, or you have been spending too much time liking posts on instagram. 🤨
+  Are you well-versed at comparing famous people and their "success" in terms of Instagram followers? Well, could it be, you got quite good a sense of popularity, or you have been spending too much time liking celebrities' posts on instagram. 🤨
 </p>
 
 <p>
