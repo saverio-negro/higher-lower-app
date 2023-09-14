@@ -34,6 +34,6 @@ The game is quite simple. To begin with, you are given a brief description for b
 
 You can also run the code to play with it on Replit. <br>
 
-<a href="https://replit.com/@saverionegro/blackjack-app?v=1"><img src="/number-guessing-app-replit.png" width="80%" height="80%"></a>
+<a href="https://replit.com/@saverionegro/higher-lower-game-app?v=1"><img src="/higher-lower-app-replit.png" width="80%" height="80%"></a>
 <br>
-<a href="https://replit.com/@saverionegro/number-guessing-app?v=1">Instagram Higher Lower App Replit</a>
+<a href="https://replit.com/@saverionegro/higher-lower-game-app?v=1">Instagram Higher Lower App Replit</a>
