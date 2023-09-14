@@ -10,7 +10,10 @@ Credit: <a href="https://www.pngwing.com/en/free-png-zimaf">pngwing.com</a>
 </p>
 
 <p>
-  The game is quite simple: to begin with, you are given a brief description for both celebrity accounts being compared. The game is about guessing who has more followers on Instagram. The game is presented in two modalities to choose out of. In the first modality, if you manage to get to compare all accounts, randomly picked, without losing, you win. In the second modality, which is the most common one, you keep guessing who has more followers, between the two accounts being compared, and keep track of your score until your guess is wrong, at which point it's game over.
+The game is quite simple. To begin with, you are given a brief description for both celebrity accounts being compared. The game is about guessing who has more followers on Instagram. The game is presented in two modalities to choose out of: 
+  
+  - #1 modality: if you manage to guess right while comparing all accounts - which are randomly picked - without losing, you win.
+  - #2 modality: it is the most common one. You keep guessing who has more followers, between the two accounts being compared, and keep track of your score until your guess is wrong, at which point it's game over.
 </p>
 
 <p>
