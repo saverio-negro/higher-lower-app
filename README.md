@@ -1,6 +1,6 @@
 # Instagram Higher Lower App
 
-<img src="/higher-lower-app-image.png" width="50%" height="50%"></img>
+<img src="/higher-lower-app-image.png" width="40%" height="40%"></img>
 <br>
 Credits: <a href="https://blog.hootsuite.com/instagram-apps-for-business/">HootSuite</a>
 <hr>
